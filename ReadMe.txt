@@ -1,6 +1,6 @@
 This is VirusTotal Checker version 2.0
 ============================
-Simple AV detection checker for local file (using VirusTotal) — Edit
+Simple AV detection checker for local file (using VirusTotal)
 ============================
 To successfully run script you need to:
 - install Python 3.4+ 
